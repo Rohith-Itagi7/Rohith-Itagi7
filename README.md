@@ -22,10 +22,14 @@ Exploring the future of AI through LLMs, Agentic Workflows, Retrieval-Augmented 
 <a href="https://www.x.com/Rohith_Itagi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rohith_Itagi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=581c87"
 /></a>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rohith-Itagi7&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rohith-Itagi7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
