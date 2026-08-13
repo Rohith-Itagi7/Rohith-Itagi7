@@ -22,16 +22,10 @@ Exploring the future of AI through LLMs, Agentic Workflows, Retrieval-Augmented 
 <a href="https://www.x.com/Rohith_Itagi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rohith_Itagi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=581c87"
 /></a>
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rohith-Itagi7&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Rohith-Itagi7"><img src="https://github-readme-stats.vercel.app/api?username=Rohith-Itagi7&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=581c87&hide_border=true&show_icons=true" alt="Rohith-Itagi7's GitHub stats" /></a>
-
-<a href="http://www.github.com/Rohith-Itagi7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Itagi7&stroke=0f172a&background=581c87&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
-<a href="https://github.com/Rohith-Itagi7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Itagi7&langs_count=10&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Rohith-Itagi7/100-days-of-python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-Itagi7&repo=100-days-of-python&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+[![](https://komarev.com/ghpvc/?username=Rohith-Itagi7&icon=0&color=0)](https://visitcount.itsvg.in)
