@@ -23,10 +23,10 @@ Exploring the future of AI through LLMs, Agentic Workflows, Retrieval-Augmented 
 src="https://img.shields.io/twitter/follow/Rohith_Itagi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=581c87"
 /></a>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Rohith-Itagi7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com?user=Rohith-Itagi7&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohith-Itagi7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Itagi7&theme=tokyonight&hide_border=true&layout=compact)
 
