@@ -24,12 +24,12 @@ src="https://img.shields.io/twitter/follow/Rohith_Itagi?logo=twitter&style=for-t
 /></a>
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Rohith-Itagi7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Rohith-Itagi7&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Itagi7&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Rohith-Itagi7&color=blueviolet)
