@@ -31,5 +31,3 @@ src="https://img.shields.io/twitter/follow/Rohith_Itagi?logo=twitter&style=for-t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Itagi7&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Rohith-Itagi7&color=blueviolet)
